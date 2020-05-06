@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "pass"
+    },
+    {
+      "id": 2,
+      "username": "Alysha_Weber64",
+      "password": "5xbJ4BmnzvKQIl7"
+    },
+    {
+      "id": 3,
+      "username": "Francesco.OHara94",
+      "password": "03zYY4XQSaPHrpU"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 2,
+      "email": "59@hotmail.com",
+      "firstName": "Валентин",
+      "lastName": "Коновалов",
+      "phone": "(949)587-10-31",
+      "username": "Игнатий.Шашков",
+      "website": "https://юлия.com"
+    },
+    {
+      "id": 3,
+      "email": ".@hotmail.com",
+      "firstName": "Елизавета",
+      "lastName": "Тихонова",
+      "phone": "(951)784-12-65",
+      "username": "Юрий64",
+      "website": "http://сергей.ru"
+    },
+    {
+      "id": 4,
+      "email": "5@gmail.com",
+      "firstName": "Макар",
+      "lastName": "Котова",
+      "phone": "(988)090-16-10",
+      "username": "Валентин65",
+      "website": "http://софия.рф"
+    },
+    {
+      "id": 5,
+      "email": ".@yandex.ru",
+      "firstName": "Алла",
+      "lastName": "Петров",
+      "phone": "(992)342-45-11",
+      "username": "Таисия.Федотов82",
+      "website": "https://илья.ru"
+    },
+    {
+      "id": 6,
+      "email": ".@ya.ru",
+      "firstName": "Эдуард",
+      "lastName": "Фомин",
+      "phone": "(950)301-05-01",
+      "username": "Герман_Костина41",
+      "website": "http://ульяна.net"
+    },
+    {
+      "id": 7,
+      "email": ".11@yahoo.com",
+      "firstName": "Борис",
+      "lastName": "Колобов",
+      "phone": "(927)148-53-83",
+      "username": "Антонида.Ефимов12",
+      "website": "https://ирина.info"
+    },
+    {
+      "id": 8,
+      "email": "11@ya.ru",
+      "firstName": "Юрий",
+      "lastName": "Суханова",
+      "phone": "(952)500-32-48",
+      "username": "Наталья.Брагина",
+      "website": "http://андрей.ru"
+    },
+    {
+      "id": 9,
+      "email": "85@mail.ru",
+      "firstName": "Михаил",
+      "lastName": "Фадеева",
+      "phone": "(997)575-09-52",
+      "username": "Лидия.Наумова12",
+      "website": "https://вера.com"
+    },
+    {
+      "username": "dillas",
+      "firstName": "Евгений",
+      "lastName": "Якобенко",
+      "email": "dillas90@gmail.com",
+      "phone": "89856800255",
+      "website": "https://56789.ru",
+      "id": 10
+    }
+  ]
+}
